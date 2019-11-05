@@ -1,0 +1,31 @@
+
+.toolbar-spacer {
+  flex: 1 1 auto;
+}
+
+.mat-sidenav, .mat-sidenav-content {
+  padding: 12px;
+}
+
+.mat-drawer-container {
+  position: relative;
+  z-index: 1;
+  box-sizing: border-box;
+  -webkit-overflow-scrolling: touch;
+  display: block;
+  overflow: hidden;
+  height: 100%;
+}
+
+.sidenav-item .lead{
+  padding-left: 1.25rem;
+}
+
+.sidenav-item .lead{
+  padding-right: 1.8rem;
+}
+
+
+span.label.welcome {
+  font-size: .99rem;
+}
